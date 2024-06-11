@@ -1,0 +1,8 @@
+=====PRODUTO=====
+macarrao
+Comida
+20.0
+=====PRODUTO=====
+rocambole
+Comida
+40.0
